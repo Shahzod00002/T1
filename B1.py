@@ -8,7 +8,7 @@ from datetime import datetime
 
 ADMIN_CHAT_ID = 1966713544 # Замените на настоящий chat_id администратора
 # Создание экземпляра бота
-API_TOKEN = '7711897476:AAGMYcVfK5XzRhSCzZjl_c1KW8DiJX7RiK4'
+API_TOKEN = '7603865848:AAFyUS_D7XqKR6eUkvhsJHZnCSDflOKnotA'
 bot = telebot.TeleBot(API_TOKEN)
 
 def create_action_log_table():
